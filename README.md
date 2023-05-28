@@ -7,8 +7,11 @@
 
 
 - 👨‍💻 All of my projects are available at [https://jonathanlee2020.github.io/ePortfolio/#](https://jonathanlee2020.github.io/ePortfolio/#)
+
 - 📫 How to reach me **jonathanlee882@gmail.com**
+
 - 📄 Know about my experiences [https://www.dropbox.com/s/oukt8frw4zhn9m5/resume%201.pdf?dl=0](https://www.dropbox.com/s/oukt8frw4zhn9m5/resume%201.pdf?dl=0)
+
 - ⚡ Fun fact **I am the top contributor on the Ghost of Tsushima Wiki Page**
 
 
