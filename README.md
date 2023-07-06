@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jonathanlee882@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/s/319ivlvhb5049ab/Current%20Resume.pdf?dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/s/319ivlvhb5049ab/Current%20Resume.pdf?dl=0)]
 
 - ⚡ Fun fact **I am the top contributor on the Ghost of Tsushima Wiki Page**
 
