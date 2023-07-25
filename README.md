@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanlee2020&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanlee2020" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [j-lee.dev](j-lee.dev](https://jonathanlee2020.github.io/ePortfolio/#)
+- 👨‍💻 All of my projects are available at [j-lee.dev](https://jonathanlee2020.github.io/ePortfolio/#)
 
 - 📫 How to reach me **jonathanlee882@gmail.com**
 
