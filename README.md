@@ -7,7 +7,7 @@
 
 
 - 👨‍💻 All of my projects are available at [j-lee.dev](j-lee.dev)
-- 👨‍💻 All of my projects are available at [j-lee.dev](j-lee.dev)
+- 👨‍💻 All of my projects are available at [j-lee.dev]
 
 - 📫 How to reach me **jonathanlee882@gmail.com**
 
