@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Jonathan Lee</h1>
-<h3 align="center">A Software Engineer @ Westpac with an interest in Frontend Engineering</h3>
+<h3 align="center">A Software Engineer @ Westpac with an interest in developing programs and applications that are beautiful and efficient!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanlee2020&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanlee2020" /> </p>
 
