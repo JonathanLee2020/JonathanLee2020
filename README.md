@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [j-lee.dev](https://j-lee.dev)
 
-- 📫 How to reach me **jonathanlee882@gmail.com**
+- 📫 You can reach me via **jonathanlee882@gmail.com**
 
 - ⚡ Fun fact **I am the top contributor on the Ghost of Tsushima Wiki Page**
 
