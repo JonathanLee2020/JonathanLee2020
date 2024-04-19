@@ -10,7 +10,7 @@
 
 - 📫 You can reach me via **jonathanlee882@gmail.com**
 
-- ⚡ Fun fact **I am the top contributor on the Ghost of Tsushima Wiki Page**
+- ⚡ Fun fact: **I am the top contributor on the Ghost of Tsushima Wiki Page**
 
 
 <h3 align="left">Languages and Tools:</h3>
